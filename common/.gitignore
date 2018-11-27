@@ -1,0 +1,10 @@
+/target/
+/.project
+/.settings
+/.classpath
+/.cache
+/logs
+/test-output
+pom.xml.versionsBackup
+/messages
+/bin/
